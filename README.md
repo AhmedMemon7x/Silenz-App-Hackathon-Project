@@ -1,4 +1,4 @@
-# auto_silent
+# Silenz
 
 A new Flutter project.
 
